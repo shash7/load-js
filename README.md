@@ -24,7 +24,7 @@ Examples
 
         load_jquery('1.8.6') // specific version
 
-        load_jquery_ui() // 1.9.2 by default, only if jQuery.ui is unset
+        load_jquery_ui() // loads jquery first, uses jquery-ui 1.10.0 by default, only if jQuery.ui is unset
 
         load_jquery_ui('1.9.2') // specific version
     </script>

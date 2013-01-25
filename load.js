@@ -31,7 +31,7 @@ function load_jquery(ver) {
 function load_jquery_ui(ver) {
     load_jquery()
 
-    if (!ver) ver = '1.9.2'
+    if (!ver) ver = '1.10.0'
 
     if (! (window['jQuery'] && jQuery.ui)) {
         load_css('http://code.jquery.com/ui/' + ver + '/themes/base/jquery-ui.css')

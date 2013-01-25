@@ -1,5 +1,5 @@
 // load.js - load js/css resources only once with javascript calls
-// version 0.1
+// version 0.2
 
 "use strict"
 

@@ -38,4 +38,3 @@ function load_jquery_ui(ver) {
         load_js('http://code.jquery.com/ui/'  + ver + '/jquery-ui.js')
     }
 }
-

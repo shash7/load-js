@@ -8,7 +8,7 @@ It uses the document.write() technique to immediately load js and css resources.
 Examples
 --------
 
-    <script type='text/javascript' src='http://pages.github.com/rkitover/load-js/load.js'></script>
+    <script type='text/javascript' src='http://rkitover.github.com/load-js/load.js'></script>
 
     <script type='text/javascript>
         // all your load calls should be in their own <script> block
